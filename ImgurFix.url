@@ -1,0 +1,9 @@
+[InternetShortcut]
+URL=javascript: (function(){$('head').append("<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.1/js/lightbox.min.js'></script>");$('head').append($("<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.1/css/lightbox.css' type='text/css' media='screen' />"));$("a").each(function () {if($(this).attr("href")){$(this).attr("href",$(this).attr("href").replace("imgur","filmot"));$(this).attr("data-lightbox", "lb")}});})()
+Modified=7069D31C2C80C40139
+IDList=
+HotKey=0
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,15
+[Bookmarklet]
+ExtendedURL=javascript: (function(){$('head').append("<script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.1/js/lightbox.min.js'></script>");$('head').append($("<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.1/css/lightbox.css' type='text/css' media='screen' />"));$("a").each(function () {if($(this).attr("href")){$(this).attr("href",$(this).attr("href").replace("imgur","filmot"));$(this).attr("data-lightbox", "lb")}});})()
